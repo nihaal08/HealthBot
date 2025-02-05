@@ -1,0 +1,7 @@
+streamlit
+nltk
+transformers
+scikit-learn
+speechrecognition
+pyttsx3
+requests
