@@ -5,3 +5,5 @@ scikit-learn
 speechrecognition
 pyttsx3
 requests
+transformers
+pytorch
